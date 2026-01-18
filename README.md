@@ -1,3 +1,4 @@
+<img width="3000" height="1277" alt="公众号封面 2 35_1 - 1@1x" src="https://github.com/user-attachments/assets/d8afe061-f8c1-4ca3-84ea-54c9e7fab104" />
 # 𝐊𝐢𝐥𝐥𝐔𝐬𝐞𝐫-𝐒𝐦𝐚𝐫𝐭𝐓𝐞𝐚𝐜𝐡
 
 一个用于屏蔽智教联盟论坛上不想看到的用户的油猴脚本。
