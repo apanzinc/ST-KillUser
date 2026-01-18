@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         𝐊𝐢𝐥𝐥𝐔𝐬𝐞𝐫-𝐒𝐦𝐚𝐫𝐭𝐓𝐞𝐚𝐜𝐡
+// @name         KillUser-SmartTeach
 // @namespace    https://apanzinc.top/
-// @version      1.0
+// @version      2.0
 // @description  屏蔽智教联盟论坛上不想看到的用户（帖子、月活榜单、通知、评论）
 // @author       apanzinc
 // @match        https://forum.smart-teach.cn/
@@ -12,6 +12,11 @@
 // @grant        none
 // @homepage     https://github.com/apanzinc/ST-KillUser
 // @source       https://github.com/apanzinc/ST-KillUser
+// @downloadURL https://update.greasyfork.org/scripts/563136/KillUser-SmartTeach.user.js
+// @updateURL https://update.greasyfork.org/scripts/563136/KillUser-SmartTeach.meta.js
+// @license GPL3
+// @contributionURL https://afdian.com/a/apanzinc
+// @contributionAmount 0.00¥
 // ==/UserScript==
 
 (function() {
@@ -30,8 +35,8 @@
     console.log('𝐁𝐲 𝐚𝐩𝐚𝐧𝐳𝐢𝐧𝐜');
     console.log('如遇问题欢迎反馈');
     
-    // 要屏蔽的用户名列表，使用localStorage持久化存储
-    let blockedUsers = JSON.parse(localStorage.getItem('killUserSmartTeachBlockedUsers')) || ['XiaoYangTech'];
+    // 要屏蔽的用户名列表，使用localStorage持久化存储Z
+    let blockedUsers = JSON.parse(localStorage.getItem('killUserSmartTeachBlockedUsers')) || ['默认用户'];
     
     // 日志开关，默认关闭
     let enableLogs = JSON.parse(localStorage.getItem('killUserSmartTeachEnableLogs')) === true;
