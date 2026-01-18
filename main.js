@@ -28,7 +28,7 @@
     console.log('____________');
     console.log('𝐊𝐢𝐥𝐥𝐔𝐬𝐞𝐫-𝐒𝐦𝐚𝐫𝐭𝐓𝐞𝐚𝐜𝐡 v1.0');
     console.log('𝐁𝐲 𝐚𝐩𝐚𝐧𝐳𝐢𝐧𝐜');
-    console.log('如遇问题欢迎反馈（小杨柳科技除外）');
+    console.log('如遇问题欢迎反馈');
     
     // 要屏蔽的用户名列表，使用localStorage持久化存储
     let blockedUsers = JSON.parse(localStorage.getItem('killUserSmartTeachBlockedUsers')) || ['XiaoYangTech'];
@@ -540,5 +540,6 @@
         log('页面获得焦点，执行屏蔽检查');
         blockUsers(true);
     });
+
 
 })();
