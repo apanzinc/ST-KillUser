@@ -28,7 +28,7 @@
 2. 点击以下链接安装脚本：
    从Github安装 - [一键安装](https://github.com/apanzinc/ST-KillUser/raw/main/forum_user_blocker.user.js)
    从Greasyfork安装 - [一键安装](https://update.greasyfork.org/scripts/563136/KillUser-SmartTeach.user.js)
-   从Scriptcat安装 - [一键安装](https://scriptcat.org/scripts/code/5230/%F0%9D%90%8A%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%94%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%92%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A1.user.js)
+   从Scriptcat安装 - [一键安装](https://scriptcat.org/scripts/code/5232/KillUser-SmartTeach.user.js)
 
 ## 使用说明
 
@@ -54,7 +54,7 @@
 
 - GitHub: [github.com/apanzinc/ST-KillUser](https://github.com/apanzinc/ST-KillUser)
 - Greasyfork：[greasyfork.org/zh-CN/scripts/563136-killuser-smartteach](https://greasyfork.org/zh-CN/scripts/563136-killuser-smartteach)
-- Scriptcat: [scriptcat.org/zh-CN/script-show-page/5230h](https://scriptcat.org/zh-CN/script-show-page/5230h)
+- Scriptcat: [scriptcat.org/zh-CN/script-show-page/5232]([https://scriptcat.org/zh-CN/script-show-page/5230h](https://scriptcat.org/zh-CN/script-show-page/5232))
 
 ## 常见问题
 
