@@ -16,12 +16,9 @@
   - @提及
   - 回复提示
 
-- ✅ 动态内容检测：使用MutationObserver实时监控页面变化，自动屏蔽新加载的内容
-- ✅ 持久化存储：使用localStorage保存屏蔽列表和设置
+- ✅ 动态内容检测：实时监控页面变化，自动屏蔽新加载的内容
 - ✅ 直观的设置界面：在论坛设置页面中嵌入管理界面
 - ✅ 日志开关：可控制是否显示控制台日志
-- ✅ 完整的URL变化检测：支持单页应用导航
-- ✅ 页面可见性监控：切换标签页时自动执行屏蔽检查
 
 ## 安装方法
 
@@ -29,7 +26,9 @@
    - Chrome/Firefox/Edge: [Tampermonkey](https://www.tampermonkey.net/)
 
 2. 点击以下链接安装脚本：
-   - [安装 𝐊𝐢𝐥𝐥𝐔𝐬𝐞𝐫-𝐒𝐦𝐚𝐫𝐭𝐓𝐞𝐚𝐜𝐡](https://github.com/apanzinc/ST-KillUser/raw/main/forum_user_blocker.user.js)
+   从Github安装 - [一键安装](https://github.com/apanzinc/ST-KillUser/raw/main/forum_user_blocker.user.js)
+   从Greasyfork安装 - [一键安装](https://update.greasyfork.org/scripts/563136/KillUser-SmartTeach.user.js)
+   从Scriptcat安装 - [一键安装](https://scriptcat.org/scripts/code/5230/%F0%9D%90%8A%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%94%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%92%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A1.user.js)
 
 ## 使用说明
 
@@ -50,19 +49,12 @@
 
 - 使用原生JavaScript开发
 - 支持现代浏览器
-- 兼容单页应用（SPA）导航
-- 模块化设计，易于扩展
 
 ## 项目链接
 
 - GitHub: [github.com/apanzinc/ST-KillUser](https://github.com/apanzinc/ST-KillUser)
-
-## 支持的论坛页面
-
-- `https://forum.smart-teach.cn/` - 主页
-- `https://forum.smart-teach.cn/notifications` - 通知页
-- `https://forum.smart-teach.cn/d/*` - 帖子详情页
-- `https://forum.smart-teach.cn/settings` - 设置页
+- Greasyfork：[greasyfork.org/zh-CN/scripts/563136-killuser-smartteach](https://greasyfork.org/zh-CN/scripts/563136-killuser-smartteach)
+- Scriptcat: [scriptcat.org/zh-CN/script-show-page/5230h](https://scriptcat.org/zh-CN/script-show-page/5230h)
 
 ## 常见问题
 
@@ -87,4 +79,4 @@ A: 脚本采用了高效的DOM操作和事件监听机制，对性能影响极�
 ## 联系方式
 
 - 作者：apanzinc
-- 如有问题欢迎反馈
+- 邮箱：apanzinc@outlook.com
